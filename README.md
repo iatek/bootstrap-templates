@@ -1,4 +1,4 @@
 bootstrap-templates
 ===================
 
-A collection of free Bootstrap templates.
+This Bootstrap templates project has been migrated over to BootstrapZero - https://github.com/iatek/bootstrap-zero
